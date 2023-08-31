@@ -1,10 +1,4 @@
 #  Website for Warehouse Management: A Concept
- 
-Find all the projects I worked on during my time in school (University of Mines and Technology, GH) here!\
-Happy to have you explore them. Thanks.
-
-
-
   
 <h4>HOW TO USE</h4>
 1. Set up a local server like ampps or xampps on your PC. <br />
