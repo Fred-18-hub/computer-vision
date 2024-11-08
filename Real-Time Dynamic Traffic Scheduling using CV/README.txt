@@ -8,7 +8,7 @@
 
 
 # NOTE:
-- This project is still in progress
+- This project is not yet finalized
 - It considers a standard four-lane road intersection
 - Lane time allocation was not implemented using a standard/recognized optimization algorithm
 - Amount of time allocated depends on level of congestion (vehicular count) only; i.e. high congestion = more time
