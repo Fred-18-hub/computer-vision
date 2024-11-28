@@ -12,7 +12,7 @@ The model can only recognze the faces of the following people:
 - Mindy Kaling
 
 
-### HOW TO USE
+### HOW TO USE:
 - Open main.py
 - Call the 'run_recognizer' function
 - Set 'name' parameter to the variable name corresponding to the person you want to predict on (eg. ben_afflek, madonna)
